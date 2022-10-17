@@ -1,5 +1,8 @@
-# Storoj
+# This repository contains all the CAD iteration files for this project
 
-This is a grand project tha is supposed to include a rover and a drone that will communicate and map surroundings. 
+I have iterated through 3 vrsions of motor mounts, and I am happy with the current version of the motor mount. The parts are already printed, and I will assemble the rover shortly
 
-``` The Project if not compliated, the progress will be uploaded weekly ```
+## TODO:
+- Create a ring for the motor for the encoder
+- Create a motor mount with suspensions
+- Create a wheel 
